@@ -22,6 +22,7 @@ Use this microservice to compute the URL hash prefixes of a URL to use against t
 # Requirements
 
 * **Java** : 11+ 
+* **SpringBoot** : 2.2.6+
 * **Maven** : 3.6.3+
 
 # Usage
