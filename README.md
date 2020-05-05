@@ -3,6 +3,8 @@
     <img src="https://travis-ci.org/mackatozis/hashing-urls.svg?branch=master" /></a>
     <a href="https://codecov.io/gh/mackatozis/hashing-urls">
     <img src="https://codecov.io/gh/mackatozis/hashing-urls/branch/master/graph/badge.svg" /></a>
+    <a href="https://sonarcloud.io/dashboard?id=mackatozis_hashing-urls">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=mackatozis_hashing-urls&metric=sqale_rating" /></a>
     <a href="https://adoptopenjdk.net/">
     <img src="https://img.shields.io/badge/java-11-orange" /></a>
     <a href="https://start.spring.io/">
