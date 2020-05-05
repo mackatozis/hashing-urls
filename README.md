@@ -1,6 +1,10 @@
 <p align="center">
     <a href="https://github.com/mackatozis/hashing-urls/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-green" /></a>
+    <img src="https://img.shields.io/badge/license-MIT-green" /></a>
+    <a href="https://adoptopenjdk.net/">
+    <img src="https://img.shields.io/badge/java-11-orange" /></a>
+    <a href="https://maven.apache.org/download.cgi">
+    <img src="https://img.shields.io/badge/maven-3.6.3-blue" /></a>
 </p>
 
 # About
