@@ -4,3 +4,8 @@ jdk:
 cache:
   directories:
     - $HOME/.m2
+env:
+  global:
+    - CODECOV_TOKEN=:uuid-repo-token
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
